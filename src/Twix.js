@@ -1,6 +1,11 @@
 import React from "react";
 import HomeButton from "./HomeButton";
 
+
+/** Renders Twix photo and HomeButton
+ * 
+ * App --> VendingMachine --> Twix
+ */
 function Twix() {
 	return (
 	<div>

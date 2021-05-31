@@ -1,6 +1,11 @@
 import React from "react";
 import HomeButton from "./HomeButton";
 
+
+/** Renders Kale photo and home button
+ * 
+ * App --> Vending Machine --> Kale --> HomeButton
+ */
 function Kale() {
 	return (
 		<div>

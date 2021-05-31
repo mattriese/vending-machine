@@ -1,6 +1,11 @@
 import React from "react";
 import HomeButton from "./HomeButton";
 
+
+/** Renders Cheetos photo & HomeButton 
+ * 
+ * App --> VendingMachine --> Cheetos --> HomeButton
+*/
 function Cheetos() {
 	return (
 	<div>

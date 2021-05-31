@@ -1,6 +1,11 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 
+
+/** Renders NavBar with links to individual snacks/root route
+ * 
+ * App --> VendingMachine --> NavBar
+ */
 function NavBar() {
 	return (
     <nav className="NavBar">
